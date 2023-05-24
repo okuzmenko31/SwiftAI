@@ -1,0 +1,13 @@
+venv
+/swiftai/static
+.idea
+.vscode
+__pycache__
+*.log
+TODO
+*.sqlite3
+*.pyc
+celery-beat-schedule.db
+*.Ds_Store
+swiftai/celerybeat-schedule
+*.env
